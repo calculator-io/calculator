@@ -1,2 +1,2 @@
-# calculator
-An advanced, open source calculator written in C++
+# Calculator
+An advanced, open source calculator written in C++.
